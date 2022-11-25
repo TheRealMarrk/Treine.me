@@ -11,7 +11,7 @@ Esse foi um desafio da Rocketseat para introduzir e fixar os conceitos básicos 
 Nesse exercicío introdutório aprendemos os fundamentos básicos de HTML e CSS sendo focado em alguns conceitos como por hyperlinks na pagina e criação e estilização de botões
 ## Screenshots
 
-![App Screenshot](https://github.com/TheRealMarrk/Treine.me/blob/main/images/toReadme/Captura%20de%20Tela%202022-11-24%20às%2020.59.13.png)
+![App Screenshot](https://github.com/TheRealMarrk/Screenshots/blob/main/treine.me%20screenshot.png)
 
 
 ## O projeto em funcionamento
